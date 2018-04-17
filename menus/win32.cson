@@ -1,4 +1,7 @@
 'menu': [
+  "globals": {
+        "font-size": external-font-size
+    }
   {
     label: '&File'
     submenu: [
